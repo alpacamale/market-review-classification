@@ -6,7 +6,7 @@ The model used is `beomi/KcELECTRA-base`
 
 ## Dataset
 
-데이터셋은 다음과 같이 분류되어있습니다.
+The dataset consists of the following columns:
 
 | column        | description                               |
 | ------------- | ----------------------------------------- |
